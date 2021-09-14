@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Allow Node ^14.17.6 to be used in this project. This shouldn't change the behavior of the code itself.
 - Use Node 16.7.0 in tooling. This shouldn't change the behavior of the code itself.
 
+### Fixed
+- Fix tests for addition of `fatalErrorCount` in eslint 7.32.
+
 ## [1.0.1] - 2021-08-13
 ### Added
 - Initial release as a project. Added tests.
