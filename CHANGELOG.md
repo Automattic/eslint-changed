@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Remove use of `pnpx` in preparation for pnpm 7.0.
+- Reorder JS imports for `import/order` eslint rule.
 - Updated package dependencies.
 
 ## [2.0.2] - 2022-04-18
