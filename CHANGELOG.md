@@ -10,9 +10,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Convert code to ESM.
 - Remove use of `pnpx` in preparation for pnpm 7.0.
 - Reorder JS imports for `import/order` eslint rule.
 - Updated package dependencies.
+- Use `jest` for tests.
+
+### Fixed
+- Fix interaction of `--in-diff-only` (or lack thereof) and listing of files on the command line.
 
 ## [2.0.2] - 2022-04-18
 ### Changed
