@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Convert code to ESM.
 - Remove use of `pnpx` in preparation for pnpm 7.0.
+- Renaming `master` references to `trunk` in a test.
 - Reorder JS imports for `import/order` eslint rule.
 - Updated package dependencies.
 - Use `jest` for tests.
