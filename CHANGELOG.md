@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Use `jest` for tests.
 
 ### Fixed
+- Fix debug output.
 - Fix interaction of `--in-diff-only` (or lack thereof) and listing of files on the command line.
 
 ## [2.0.2] - 2022-04-18
