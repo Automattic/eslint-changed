@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Fixed
+- Clean up JavaScript eslint issues.
+
 ## [2.0.4] - 2022-11-01
 ### Changed
 - Updated package dependencies.
