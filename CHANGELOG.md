@@ -5,12 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.0.7-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [2.0.7] - 2023-07-12
 ### Fixed
-- Fix package name in readme.
+- Fix package name in readme. [#31844]
 
 ## [2.0.6] - 2023-06-06
 ### Changed
@@ -78,7 +75,7 @@ This is an alpha version! The changes listed here are not final.
 
 * Created as a tool within the monorepo.
 
-[2.0.7-alpha]: https://github.com/Automattic/eslint-changed/compare/2.0.6...2.0.7-alpha
+[2.0.7]: https://github.com/Automattic/eslint-changed/compare/2.0.6...2.0.7
 [2.0.6]: https://github.com/Automattic/eslint-changed/compare/2.0.5...2.0.6
 [2.0.5]: https://github.com/Automattic/eslint-changed/compare/2.0.4...2.0.5
 [2.0.4]: https://github.com/Automattic/eslint-changed/compare/2.0.3...2.0.4
