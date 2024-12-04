@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Enable test coverage.
 
+### Fixed
+- Tests: Use fs.realpath() for macOS compatibility.
+
 ## [2.0.9] - 2024-08-29
 ### Changed
 - Internal updates.
