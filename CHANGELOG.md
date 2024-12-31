@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Add `--eslint-options` option.
 - Enable test coverage.
 
+### Changed
+- Updated package dependencies.
+
 ### Fixed
 - Detect whether to use eslintrc or flat config in the same way eslint does.
 - Tests: Use fs.realpath() for macOS compatibility.
