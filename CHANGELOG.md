@@ -5,20 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.1.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [2.1.0] - 2025-01-09
 ### Added
-- Add `--eslint-options` option.
-- Enable test coverage.
+- Add `--eslint-options` option. [#40446]
+- Enable test coverage. [#39961]
 
 ### Changed
-- Updated package dependencies.
+- Updated package dependencies. [#40786]
+- Updated package dependencies. [#40828]
 
 ### Fixed
-- Detect whether to use eslintrc or flat config in the same way eslint does.
-- Tests: Use fs.realpath() for macOS compatibility.
+- Detect whether to use eslintrc or flat config in the same way eslint does. [#40446]
+- Tests: Use fs.realpath() for macOS compatibility. [#40451]
 
 ## [2.0.9] - 2024-08-29
 ### Changed
@@ -98,7 +96,7 @@ This is an alpha version! The changes listed here are not final.
 
 * Created as a tool within the monorepo.
 
-[2.1.0-alpha]: https://github.com/Automattic/eslint-changed/compare/2.0.9...2.1.0-alpha
+[2.1.0]: https://github.com/Automattic/eslint-changed/compare/2.0.9...2.1.0
 [2.0.9]: https://github.com/Automattic/eslint-changed/compare/2.0.8...2.0.9
 [2.0.8]: https://github.com/Automattic/eslint-changed/compare/2.0.7...2.0.8
 [2.0.7]: https://github.com/Automattic/eslint-changed/compare/2.0.6...2.0.7
