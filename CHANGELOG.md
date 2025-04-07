@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Add keywords in package.json for npm search.
+
 ## [2.1.0] - 2025-01-09
 ### Added
 - Add `--eslint-options` option. [#40446]
