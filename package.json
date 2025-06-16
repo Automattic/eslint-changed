@@ -1,6 +1,6 @@
 {
 	"name": "@automattic/eslint-changed",
-	"version": "2.1.1",
+	"version": "2.1.2-alpha",
 	"description": "Run eslint on files, but only report warnings and errors from lines that were changed.",
 	"homepage": "https://github.com/Automattic/jetpack/tree/HEAD/projects/js-packages/eslint-changed/#readme",
 	"type": "module",
@@ -31,7 +31,7 @@
 		"parse-diff": "0.8.1"
 	},
 	"devDependencies": {
-		"jest": "29.7.0"
+		"jest": "30.0.0"
 	},
 	"peerDependencies": {
 		"eslint": ">=7.0.0"
