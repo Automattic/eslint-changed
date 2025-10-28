@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Fixed
+- Fix lints.
+
 ## [2.1.3] - 2025-10-16
 ### Changed
 - Update package dependencies. [#45001]
