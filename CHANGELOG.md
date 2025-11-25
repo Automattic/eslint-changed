@@ -5,16 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.1.4-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [2.1.4] - 2025-11-25
 ### Changed
-- Update package dependencies.
+- Update package dependencies. [#45590] [#45958]
 
 ### Fixed
-- Do the right thing when running with `--git` from a subdirectory of the repository.
-- Fix lints.
+- Do the right thing when running with `--git` from a subdirectory of the repository. [#46064]
 
 ## [2.1.3] - 2025-10-16
 ### Changed
@@ -118,7 +114,7 @@ This is an alpha version! The changes listed here are not final.
 
 * Created as a tool within the monorepo.
 
-[2.1.4-alpha]: https://github.com/Automattic/eslint-changed/compare/2.1.3...2.1.4-alpha
+[2.1.4]: https://github.com/Automattic/eslint-changed/compare/2.1.3...2.1.4
 [2.1.3]: https://github.com/Automattic/eslint-changed/compare/2.1.2...2.1.3
 [2.1.2]: https://github.com/Automattic/eslint-changed/compare/2.1.1...2.1.2
 [2.1.1]: https://github.com/Automattic/eslint-changed/compare/2.1.0...2.1.1
