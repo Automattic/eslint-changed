@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Update package dependencies.
 
 ### Fixed
+- Do the right thing when running with `--git` from a subdirectory of the repository.
 - Fix lints.
 
 ## [2.1.3] - 2025-10-16
