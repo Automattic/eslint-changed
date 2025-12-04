@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Fixed
+- Do the right thing for `--git --diff-only` and input paths not relative to the repo root.
+- Try accounting for forward-slash vs backslash paths on Windows.
+
 ## [2.1.4] - 2025-11-25
 ### Changed
 - Update package dependencies. [#45590] [#45958]
