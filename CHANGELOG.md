@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Make it explicit that this package has no JS exports by setting `exports` in package.json.
 - Set `.repository.url` in `package.json` to the mirror repo rather than the monorepo. Required for enabling provenance.
 
 ## [2.1.5] - 2025-12-04
