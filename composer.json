@@ -3,9 +3,6 @@
 	"description": "description",
 	"license": "GPL-2.0-or-later",
 	"require": {},
-	"require-dev": {
-		"automattic/jetpack-changelogger": "^6.0.14"
-	},
 	"scripts": {
 		"test-coverage": [
 			"pnpm run test-coverage"
